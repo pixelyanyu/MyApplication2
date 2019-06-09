@@ -13,6 +13,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //修改
         ArrayList<String> list = new ArrayList<>();
-        ArrayList<String> lis1t = new ArrayList<>();
     }
 }
